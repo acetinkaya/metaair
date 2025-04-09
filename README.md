@@ -2,4 +2,4 @@
 
 ## 🚀 2025 🚀
 
-İstanbul 
+İstanbul Gelişim Üniversitesi 
