@@ -18,4 +18,5 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
 
 - [**Beyza IŞIK**](https://github.com/)       
-
+  ORCID ID: 0009-0009-1964-5937
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
