@@ -6,4 +6,4 @@
 
 ## Proje Takımı    
 - [**Havin GÖNÜL**](https://github.com/)   
-
+  ORCID ID: 0009-0001-
