@@ -20,3 +20,8 @@
 - [**Beyza IŞIK**](https://github.com/)       
   ORCID ID: 0009-0009-1964-5937
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
+  
+## Proje Danışmanı    
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
+  ORCID ID: 0000-0003-4535-3953      
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul, Türkiye
