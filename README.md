@@ -11,4 +11,4 @@
 
 - [**Azra YALÇINKAYA**](https://github.com/)     
   ORCID ID: 0009-0007-4492-2567
-  İstanbul Gelişim Üniversitesi, 
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, 
