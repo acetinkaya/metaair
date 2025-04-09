@@ -14,4 +14,4 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye    
 
 - [**Efekan GÜMÜŞ**](https://github.com/)     
-  ORCID ID: 0009-0001- 
+  ORCID ID: 0009-0001- 4273-7778
