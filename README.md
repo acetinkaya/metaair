@@ -2,4 +2,4 @@
 
 ## 🚀 2025 🚀
 
-İstanbul Gelişim Üniversitesi (İGÜ) MYO Robotik 
+İstanbul Gelişim Üniversitesi (İGÜ) MYO Robotik Dersi "MetaAIR"
