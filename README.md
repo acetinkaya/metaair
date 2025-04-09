@@ -5,4 +5,5 @@
 İstanbul Gelişim Üniversitesi (İGÜ) MYO Robotik Dersi "MetaAIR" takımının çalışmalarının tanıtım sayfasıdır.
 
 ## Proje Takımı    
-- [**Havin GÖNÜL**](https://github
+- [**Havin GÖNÜL**](https://github.com/)   
+
