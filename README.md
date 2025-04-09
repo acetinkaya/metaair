@@ -15,4 +15,5 @@
 
 - [**Efekan GÜMÜŞ**](https://github.com/)     
   ORCID ID: 0009-0001- 4273-7778
-  İstanbul Gelişim Üniversitesi, 
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu,
+
